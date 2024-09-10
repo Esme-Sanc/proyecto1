@@ -8,8 +8,8 @@ Este proyecto se centra en el análisis de datos sobre delitos cometidos contra 
 
 El enfoque del proyecto incluye las siguientes etapas:
 
-1. **Recolección de Datos**: 
-   - Los datos principales se extraen del [dataset de Kaggle](https://www.kaggle.com/datasets).
+1. **Recolección de datos**: 
+   - Los datos principales se extraen del [dataset de Kaggle]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/balajivaraprasad/crimes-against-women-in-india-2001-2021)).
    - Para enriquecer el análisis y obtener datos adicionales, se utiliza la [Crimeometer API](https://www.crimeometer.com/). Esta API permite acceder a datos de crímenes en diversas regiones y puede ser utilizada para comparar los datos históricos con estadísticas actuales.
 
 2. **Limpieza de Datos**: 
