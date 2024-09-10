@@ -2,7 +2,7 @@
 
 ## Introducción
 
-Este proyecto se centra en el análisis de datos sobre delitos cometidos contra mujeres en India durante el período 2001-2021. Los datos se obtienen del [dataset disponible en Kaggle]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/balajivaraprasad/crimes-against-women-in-india-2001-2021)) y el objetivo es explorar tendencias, patrones y correlaciones en diferentes tipos de delitos o crímenes, como violación, secuestro, rapto y muertes por dote. Este análisis busca proporcionar una visión comprensiva de cómo estos crímenes han evolucionado a lo largo de dos décadas y ofrecer información valiosa para el diseño de políticas de prevención y apoyo.
+Este proyecto se centra en el análisis de datos sobre delitos cometidos contra mujeres en India durante el período 2001-2021. Los datos se obtienen del [dataset disponible en Kaggle](https://www.kaggle.com/datasets/balajivaraprasad/crimes-against-women-in-india-2001-2021) y el objetivo es explorar tendencias, patrones y correlaciones en diferentes tipos de delitos o crímenes, como violación, secuestro, rapto y muertes por dote. Este análisis busca proporcionar una visión comprensiva de cómo estos crímenes han evolucionado a lo largo de dos décadas y ofrecer información valiosa para el diseño de políticas de prevención y apoyo.
 
 ## Metodología
 
