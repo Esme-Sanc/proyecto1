@@ -43,4 +43,4 @@ El enfoque del proyecto incluye las siguientes etapas:
 
 ## Enlace a Trello
 
-Para seguir el progreso del proyecto y revisar la planificación completa, visita el tablero de Trello aquí: [Trello - Análisis de Crímenes Contra Mujeres en India]([https://trello.com/b/abc123456/análisis-de-crímenes-contra-mujeres-en-india](https://trello.com/b/QDWsGSqT/delitos-de-la-mujer-en-la-india-2001-2021))
+Para seguir el progreso del proyecto y revisar la planificación completa, visita el tablero de Trello aquí: ([Trello - Análisis de Crímenes Contra Mujeres en India](https://trello.com/b/abc123456/análisis-de-crímenes-contra-mujeres-en-india](https://trello.com/b/QDWsGSqT/delitos-de-la-mujer-en-la-india-2001-2021))
