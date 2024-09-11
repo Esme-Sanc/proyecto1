@@ -27,9 +27,11 @@ El enfoque del proyecto incluye las siguientes etapas:
 ## Preguntas y conclusiones
 
 ### Preguntas
-1. ¿Cómo han cambiado las tasas de crímenes contra mujeres en India desde 2001 hasta 2021?
-2. ¿Qué patrones regionales se pueden identificar en los datos?
-3. ¿Cómo se relacionan diferentes tipos de crímenes entre sí y con las tasas generales?
+1. ¿Como ha cambiado la tasa de crímenes contra las mujeres en India desde 2001 hasta el 2021.?
+
+2. ¿ Que tipo de delitos predominan en las mujeres en la India.?
+
+3. ¿Cuáles son los estados indios con las tasas más altas de incidencia delictiva y qué tipos de delitos predominan en cada uno?
 
 ### Conclusiones
 - **Tendencias generales**: Se identifican cambios en las tasas de crímenes y posibles factores influyentes a lo largo del tiempo.
