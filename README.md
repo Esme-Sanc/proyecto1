@@ -55,3 +55,6 @@ Para seguir el progreso del proyecto y revisar la planificación completa, visit
 ## Enlace a Tableu
 
 [Dashboard - Crímenes contra las mujeres en India (2001-2021)](https://prod-uk-a.online.tableau.com/t/contacto-acc783cdb6/authoring/DashboardIndia/Dashboard6#1)
+
+## Enlace a la presentación
+[Presentación de nuestro proyecto](https://prezi.com/view/Iq9tH4gxueuSt0WCe7R1/)
