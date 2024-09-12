@@ -40,9 +40,18 @@ El enfoque del proyecto incluye las siguientes etapas:
 
 ## Fuentes de datos
 
-- [Dataset sobre crímenes contra mujeres en India]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/balajivaraprasad/crimes-against-women-in-india-2001-2021)) en Kaggle.
+- [Dataset sobre crímenes contra mujeres en India en Kaggle](https://www.kaggle.com/datasets/balajivaraprasad/crimes-against-women-in-india-2001-2021)
 - Información adicional y actualizaciones se obtienen a través de la [Crimeometer API](https://www.crimeometer.com/). Esta API proporciona datos actuales y comparativos que complementan el análisis histórico.
+
+## Enlace a GitHub
+
+[Repositorio.](https://github.com/Esme-Sanc/proyecto1.git)
+
 
 ## Enlace a Trello
 
 Para seguir el progreso del proyecto y revisar la planificación completa, visita el tablero de Trello aquí: [Trello - Análisis de Crímenes Contra Mujeres en India](https://trello.com/b/QDWsGSqT/delitos-de-la-mujer-en-la-india-2001-2021).
+
+## Enlace a Tableu
+
+[Dashboard - Crímenes contra las mujeres en India (2001-2021)](https://prod-uk-a.online.tableau.com/t/contacto-acc783cdb6/authoring/DashboardIndia/Dashboard6#1)
